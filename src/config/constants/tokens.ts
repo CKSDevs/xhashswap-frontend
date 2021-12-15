@@ -127,6 +127,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://shibgofficial.com/'
   },
+  slc: {
+    symbol: 'SLC',
+    address: {
+      56: '0x937abf4b5e99ac606c4802087cdf6a183983fa64',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://solarcompany.tech/'
+  },
   ftm: {
     symbol: 'FTM',
     address: {
