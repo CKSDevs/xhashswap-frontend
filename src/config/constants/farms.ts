@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     isTokenOnly: true,
     lpAddresses: {
       97: '',
-      56: '0xBF5eafCE739037b83e7d01D5FF9BC7CA7Bc8a2Cd', /* 0xb30B27aDb3B0A45e88385eB2BB144Fad9120A420 */
+      56: '0xBF5eafCE739037b83e7d01D5FF9BC7CA7Bc8a2Cd' /* 0xb30B27aDb3B0A45e88385eB2BB144Fad9120A420 */,
     },
     token: tokens.xsh,
     quoteToken: tokens.busd,
@@ -70,8 +70,8 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x071191205aa3a0f7cacb5f1a6ba133e3e99c1db7',
     },
-    token: tokens.xmine,
-    quoteToken: tokens.shg,
+    token: tokens.shg,
+    quoteToken: tokens.xmine,
   },
   {
     pid: 5,
@@ -119,7 +119,7 @@ const farms: FarmConfig[] = [
     isTokenOnly: true,
     lpAddresses: {
       97: '',
-      56: '0xe39f6663cAd0ce1D97e2e02f6A4Bc990ee34dB72', /* 0x0fA9651a0ecC19906843C13c60443300B9d37355 */
+      56: '0xe39f6663cAd0ce1D97e2e02f6A4Bc990ee34dB72' /* 0x0fA9651a0ecC19906843C13c60443300B9d37355 */,
     },
     token: tokens.xmine,
     quoteToken: tokens.usdt,
@@ -141,7 +141,7 @@ const farms: FarmConfig[] = [
     isTokenOnly: true,
     lpAddresses: {
       97: '',
-      56: '0x804678fa97d91B974ec2af3c843270886528a9E6', /* 0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82 */
+      56: '0x804678fa97d91B974ec2af3c843270886528a9E6' /* 0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82 */,
     },
     token: tokens.cake,
     quoteToken: tokens.busd,
@@ -152,7 +152,7 @@ const farms: FarmConfig[] = [
     isTokenOnly: true,
     lpAddresses: {
       97: '',
-      56: '0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16', /* 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c */
+      56: '0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16' /* 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c */,
     },
     token: tokens.wbnb,
     quoteToken: tokens.busd,
@@ -163,7 +163,7 @@ const farms: FarmConfig[] = [
     isTokenOnly: true,
     lpAddresses: {
       97: '',
-      56: '0x343c0aD4EEcF9b0fDa4Cea3d351c13D0fCa16bB1', /* 0xAD29AbB318791D579433D831ed122aFeAf29dcfe */
+      56: '0x343c0aD4EEcF9b0fDa4Cea3d351c13D0fCa16bB1' /* 0xAD29AbB318791D579433D831ed122aFeAf29dcfe */,
     },
     token: tokens.ftm,
     quoteToken: tokens.busd,
@@ -174,7 +174,7 @@ const farms: FarmConfig[] = [
     isTokenOnly: true,
     lpAddresses: {
       97: '',
-      56: '0x7213a321F1855CF1779f42c0CD85d3D95291D34C', /* 0x2170Ed0880ac9A755fd29B2688956BD959F933F8 */
+      56: '0x7213a321F1855CF1779f42c0CD85d3D95291D34C' /* 0x2170Ed0880ac9A755fd29B2688956BD959F933F8 */,
     },
     token: tokens.eth,
     quoteToken: tokens.busd,
@@ -185,7 +185,7 @@ const farms: FarmConfig[] = [
     isTokenOnly: true,
     lpAddresses: {
       97: '',
-      56: '0xF45cd219aEF8618A92BAa7aD848364a158a24F33', /* 0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c */
+      56: '0xF45cd219aEF8618A92BAa7aD848364a158a24F33' /* 0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c */,
     },
     token: tokens.btcb,
     quoteToken: tokens.busd,
