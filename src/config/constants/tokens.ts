@@ -118,6 +118,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://olive.cash/pools'
   },
+  shg: {
+    symbol: 'SHG',
+    address: {
+      56: '0x33AF7644B1F60c8e8d62689b19d60a5d132164fC',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://shibgofficial.com/'
+  },
   ftm: {
     symbol: 'FTM',
     address: {
