@@ -16,7 +16,7 @@ const pools: PoolConfig[] = [
     sortOrder: 999,
   },
   {
-    sousId: 1,
+    sousId: 2,
     stakingToken: tokens.xsh,
     earningToken: tokens.shg,
     contractAddress: {
@@ -25,7 +25,7 @@ const pools: PoolConfig[] = [
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,
-    tokenPerBlock: '0.004',
+    tokenPerBlock: '140.3814',
     sortOrder: 999,
   },
 ]
