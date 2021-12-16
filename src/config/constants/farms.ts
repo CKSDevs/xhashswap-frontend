@@ -104,6 +104,16 @@ const farms: FarmConfig[] = [
     quoteToken: tokens.xmine,
   },
   {
+    pid: 21,
+    lpSymbol: 'X-MINE-RAYON LP',
+    lpAddresses: {
+      97: '',
+      56: '0xCF582dA9d9b0263782670AF4c3d5C5054E3890FF',
+    },
+    token: tokens.rayon,
+    quoteToken: tokens.xmine,
+  },
+  {
     pid: 5,
     lpSymbol: 'BUSD-USDC LP',
     lpAddresses: {

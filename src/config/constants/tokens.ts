@@ -145,6 +145,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://solarcompany.tech/'
   },
+  rayon: {
+    symbol: 'RAYON',
+    address: {
+      56: '0x81b24Bd68791f970dbe0Cff281445E3486866b4c',
+      97: '',
+    },
+    decimals: 9,
+    projectLink: 'https://rayonsenergy.com/'
+  },
   ftm: {
     symbol: 'FTM',
     address: {
