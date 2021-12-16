@@ -136,6 +136,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://solarcompany.tech/'
   },
+  ign: {
+    symbol: 'IGN',
+    address: {
+      56: '0xf071AF4Da0D1c4f9BfD624C2C5eced7C5fe52573',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://solarcompany.tech/'
+  },
   ftm: {
     symbol: 'FTM',
     address: {
