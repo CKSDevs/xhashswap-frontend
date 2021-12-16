@@ -143,7 +143,7 @@ const tokens = {
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://solarcompany.tech/'
+    projectLink: 'https://portalinfinity.com/'
   },
   rayon: {
     symbol: 'RAYON',
